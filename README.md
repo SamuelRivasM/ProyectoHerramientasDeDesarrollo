@@ -16,6 +16,9 @@ Este proyecto permite aplicar nuestros conocimientos en el uso de GitHub, median
 - JavaScript
 - PHP
 
+## Herramientas de gestión utilizadas
+- Trello
+
 ## Clona el repositorio
 
 git clone https://github.com/aaronvasa/ProyectoHerramientasDeDesarrollo.git
